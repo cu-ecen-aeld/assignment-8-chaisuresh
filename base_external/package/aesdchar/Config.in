@@ -1,0 +1,5 @@
+config BR2_PACKAGE_AESDCHAR
+	bool "aesdchar"
+	help
+	 to locate packages for aesd char device
+	  
